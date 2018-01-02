@@ -34,7 +34,7 @@ public class TwoArray {
 		
 		for(int i  = 0;  i< c.length; i++){
 			for(int j= 0;  j < c[i].length; j++){
-				System.out.print(j + " ");
+				System.out.print(c[i][j] + " ");
 			}
 			System.out.println(" ");
 		}
